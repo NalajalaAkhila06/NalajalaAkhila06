@@ -174,9 +174,10 @@ Completed a **6-month Python Development Internship Programme**, gaining hands-o
 
 ---
 
-### 📊 CodeAlpha — Data Science Internship
+### 📊 Blackbucks Skill Internship Program – Data & Business Intelligence Analyst Intern
+*	Completed an 8-week internship focused on Data & Business Intelligence Analytics.
+*	Strengthened practical skills through hands-on activities and project-oriented learning in the Data & Business Intelligence domain.
 
-Worked with large datasets and applied machine learning techniques to analyze data and generate actionable insights.
 
 **Achievement:**
 
