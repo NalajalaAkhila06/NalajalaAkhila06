@@ -178,11 +178,6 @@ Completed a **6-month Python Development Internship Programme**, gaining hands-o
 *	Completed an 8-week internship focused on Data & Business Intelligence Analytics.
 *	Strengthened practical skills through hands-on activities and project-oriented learning in the Data & Business Intelligence domain.
 
-
-**Achievement:**
-
-* Received a **Letter of Recommendation** for strong performance and project execution.
-
 ---
 
 ## 📜 Certifications
